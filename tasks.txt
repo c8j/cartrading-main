@@ -1,0 +1,20 @@
+Vehicle
+ - regnr
+ - tillverkare
+ - modell
+ - årsmodell
+ - antal körda mil
+ - antal dörrar
+ - registrerad datum
+
+Valuation
+ - värderingsdatum
+ - värdering (kr)
+ - IsValued
+
+Endpoints
+ - lägger in en bil i system
+ - lägger in en bil i värderingskön
+ - lista alla bilar
+ - lista alla värderade bilar
+ - lista alla ickevärderade bilar
